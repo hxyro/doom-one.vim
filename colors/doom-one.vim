@@ -73,7 +73,7 @@ let s:white      = '#efefef'
 
 let s:green_alt  = '#799033'
 
-let s:bg             = '#282c34'
+let s:bg             = '#202630'
 let s:bg_alt         = '#21242b'
 let s:bg_highlight   = '#2E323C'
 let s:bg_popup       = '#3E4556'
